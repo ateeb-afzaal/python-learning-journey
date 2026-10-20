@@ -13,9 +13,16 @@ Python Development Internship.
 
 | Topic                         | Status       |
 | ----------------------------- | ------------ |
-| Introduction                  | ✅ Completed |
+| Introduction | ✅ Completed |
 | Getting Started / Hello World | ✅ Completed |
-| Python Syntax                 | ⏳ Next      |
+| Python Syntax | ✅ Completed |
+| Python Comments | ✅ Completed |
+| Python Variables | ✅ Completed |
+| Python Data Types | ✅ Completed |
+| Python Numbers | ✅ Completed |
+| Python Casting | ✅ Completed |
+| Python Strings | ✅ Completed |
+| Python Booleans | ⏳ Next |
 
 ## Repository Structure
 
